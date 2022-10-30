@@ -28,7 +28,8 @@ With CMake (Powershell):
 **RUN**: 
 
 ```
-./team12sort 3 2 1 
+cd build
+./sortApp 3 2 1 
 ```
 
 Or run without arguments and pass each argument on a separate line.
